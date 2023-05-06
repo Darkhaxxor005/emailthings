@@ -1,0 +1,1 @@
+Put your domain here without http:// and https://
